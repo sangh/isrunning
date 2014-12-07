@@ -1,3 +1,11 @@
+Don't Use This
+==============
+
+When I wrote this there was only slightly more of a reason than now, but now
+there are loads of ways to search the process list that don't require
+installing a stupid program, so use one of those instead of this.
+
+
 Is Running?
 ===========
 
